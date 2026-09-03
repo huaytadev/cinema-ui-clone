@@ -29,4 +29,4 @@ git clone https://github.com/KevDeto/cinema-ui-clone.git
 
 El proyecto está desplegado en GitHub Pages:
 
-[https://kevdeto.github.io/cinema-ui-clone/](https://kevdeto.github.io/cinema-ui-clone/)
+[https://kevdeto.github.io/cinema-ui-clone/](https://huaytadev.github.io/cinema-ui-clone/)
